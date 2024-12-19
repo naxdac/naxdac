@@ -11,11 +11,9 @@ Desenvolvedor em formação | Apaixonado por Tecnologia e Criatividade
   
 <div>
   
-![Naxdac's GitHub stats](https://github-readme-stats.vercel.app/api?username=naxdac&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxdac&layout=compact&theme=tokyonight)  
+![Naxdac's GitHub stats](https://github-readme-stats.vercel.app/api?username=naxdac&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxdac&layout=compact&theme=dark)  
 <p align="left">
-  <div>
-    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
