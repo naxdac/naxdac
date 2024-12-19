@@ -23,8 +23,6 @@ Desenvolvedor em formação | Apaixonado por Tecnologia e Criatividade
 </p>
 
 <div>
-  
-## 🌐 Minhas Redes Sociais  
 
 <p align="left">
   <a href="https://instagram.com/naxdac" target="_blank">
