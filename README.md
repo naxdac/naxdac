@@ -2,14 +2,12 @@
 Desenvolvedor em formação | Apaixonado por Tecnologia e Criatividade  
 
 ## 🌟 Habilidades e Interesses  
-- **Linguagens:** C | Python | JavaScript | HTML
+- **Linguagens:** HTML | CSS | JavaScript | C
 - **Áreas de Interesse:**  
-  - Ciência de Dados e Machine Learning  
+  - Front-end, Ciência de Dados e Machine Learning  
   - Automação de Processos e Otimização de Sistemas
   - Desenvolvimento Web e Mobile  
 - **Ferramentas:** Git, VS Code, SQL, Dev C++
-  
-<div>
   
 ![Naxdac's GitHub stats](https://github-readme-stats.vercel.app/api?username=naxdac&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxdac&layout=compact&theme=dark)  
@@ -19,8 +17,6 @@ Desenvolvedor em formação | Apaixonado por Tecnologia e Criatividade
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
 </p>
-
-<div>
 
 <p align="left">
   <a href="https://instagram.com/naxdac" target="_blank">
